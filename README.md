@@ -13,4 +13,4 @@ To use the application:
   - 4 is to enter the .JSON input file (default: trainings.txt)
   - 5 is to exit the application
 3. When running a function, enter the appropriate input specified
-4. Have fun!
+4. Have fun! :)
